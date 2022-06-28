@@ -4,7 +4,7 @@
     "description": "My custom theme!",
     "version": "0.0.1",
     "publisher": "brianlewyn",
-    "icon": "https://raw.githubusercontent.com/brianlewyn/DarkTheme/images/SquareProfile.jpg",
+    "icon": "https://raw.githubusercontent.com/brianlewyn/DarkTheme/main/images/SquareProfile.jpg",
     "repository": {
         "type": "git",
         "url": "https://github.com/brianlewyn/DarkTheme"
