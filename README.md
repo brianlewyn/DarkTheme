@@ -8,13 +8,13 @@ For the background, I was inspired by the [Material Theme](https://marketplace.v
 ## Screenshot
 
 ### HTML
-![HTML screenshot](https://raw.githubusercontent.com/brianlewyn/DarkTheme/Images/HTML.png)
+![HTML screenshot](https://raw.githubusercontent.com/brianlewyn/DarkTheme/images/HTML.png)
 
 ### CSS
-![CSS screenshot](https://raw.githubusercontent.com/brianlewyn/DarkTheme/Images/CSS.png)
+![CSS screenshot](https://raw.githubusercontent.com/brianlewyn/DarkTheme/images/CSS.png)
 
 ### JS
-![JS screenshot](https://raw.githubusercontent.com/brianlewyn/DarkTheme/Images/JS.png)
+![JS screenshot](https://raw.githubusercontent.com/brianlewyn/DarkTheme/images/JS.png)
 
 ### GO
-![GO screenshot](https://raw.githubusercontent.com/brianlewyn/DarkTheme/Images/GO.png)
+![GO screenshot](https://raw.githubusercontent.com/brianlewyn/DarkTheme/images/GO.png)
